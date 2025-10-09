@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50ef83bd-b61d-4c02-b620-f9e1756e1de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/LinkedListStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructureAlgorithm/StackDSA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "Application.DynamicArrayDSA.executor": "Run",
     "Application.FindLargest.executor": "Run",
     "Application.HelloWorld.executor": "Run",
-    "Application.LinkedList.executor": "Debug",
+    "Application.LinkedList.executor": "Run",
     "Application.LinkedListDSA.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PriorityQueue.executor": "Run",
@@ -57,28 +56,22 @@
     "Application.StackDSA.executor": "Run",
     "Application.StarPattern.executor": "Run",
     "Application.TwoBiggestNumbers.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Personal Development/Clothing Web App/clothingsystem"
+    "last_opened_file_path": "E:/Personal Development/Clothing Web App/clothingsystem",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LinkedList">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qs.Calculator" />
-      <module name="Java-DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="qs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedListStudent">
     <configuration name="DeloitteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qs.DeloitteArray" />
       <module name="Java-DSA" />
@@ -118,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.LinkedListStudent" />
+      <module name="Java-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qs.ReverseAnArray" />
       <module name="Java-DSA" />
@@ -133,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListStudent" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.FindLargest" />
         <item itemvalue="Application.DeloitteArray" />
         <item itemvalue="Application.ReverseAnArray" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
